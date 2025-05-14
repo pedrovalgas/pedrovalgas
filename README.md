@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Pedro Lucas
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-end`**
 
 Olá! Me chamo Pedro Lucas Portes Valgas, tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas na UNISINOS. Sou apaixonado por tecnologia e atualmente estou focado em desenvolvimento de software.
 
@@ -16,39 +16,31 @@ Olá! Me chamo Pedro Lucas Portes Valgas, tenho 18 anos e sou estudante de Anál
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Java"
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Spring Boot"
+    title="Spring Boot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="PostgreSQL"
+    title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
+    alt="Git"
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
@@ -56,7 +48,22 @@ Olá! Me chamo Pedro Lucas Portes Valgas, tenho 18 anos e sou estudante de Anál
 />
 <img 
     align="left" 
-    alt="Python" 
+    alt="API REST"
+    title="API REST"
+    style="padding-right: 10px; margin-top: 5px;" 
+    src="https://img.shields.io/badge/API-REST-blue?style=flat-square&logo=api"
+/>
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python"
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
@@ -84,3 +91,4 @@ Olá! Me chamo Pedro Lucas Portes Valgas, tenho 18 anos e sou estudante de Anál
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovalgas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
